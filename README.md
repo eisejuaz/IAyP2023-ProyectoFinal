@@ -23,6 +23,12 @@ Aquí se almacenan todas las constantes y los perfiles de las funciones y accion
 
 Este archivo tiene las declaraciones de todas nuestras funciones y acciones, cuyos perfiles deben estar incluidos en biblioteca.h, y que debe incluir #include "biblioteca.h" para llamarla y poder usar todas las constantes que allí se declaren.
 
+## Personas ejemplo
+
+Se puede testear usando el archivo malvinas.dat , que contiene ya precargadas varias personas con distintas fechas se nacimiento, función o estado Vive/fallecido.
+
+> malvinas.dat
+
 ## Compilado
 
 Este proyecto se compila con la siguiente línea:
